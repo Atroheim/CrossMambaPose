@@ -1,0 +1,4 @@
+path_model: '/root/autodl-tmp/MVDoppler-Pose/best_model.pth'
+path_args: '/root/autodl-tmp/MVDoppler-Pose/outputs/2026-04-21/17-40-31/.hydra/config.yaml'
+path_save: '/root/autodl-tmp/MVDoppler-Pose/'
+test_episode: '20220610130106'

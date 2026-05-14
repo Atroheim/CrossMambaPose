@@ -1,0 +1,23 @@
+# 忽略权重和模型文件
+*.pth
+*.pt
+*.pkl
+*.npy
+
+# 忽略数据集文件夹
+data/
+datasets/
+
+# 忽略日志和训练可视化
+wandb/
+runs/
+*.log
+
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+# 忽略 IDE 配置文件
+.idea/
+.vscode/
+.ipynb_checkpoints/
