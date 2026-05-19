@@ -1,4 +1,5 @@
 # 忽略权重和模型文件
+checkpoints/
 *.pth
 *.pt
 *.pkl
@@ -11,6 +12,7 @@ datasets/
 # 忽略日志和训练可视化
 wandb/
 runs/
+outputs/
 *.log
 
 # 忽略 Python 缓存
@@ -21,3 +23,7 @@ __pycache__/
 .idea/
 .vscode/
 .ipynb_checkpoints/
+
+# 忽略结果对比图
+.pdf/
+.png/
