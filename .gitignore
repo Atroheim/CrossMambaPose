@@ -25,5 +25,5 @@ __pycache__/
 .ipynb_checkpoints/
 
 # 忽略结果对比图
-.pdf/
-.png/
+.pdf
+.png
